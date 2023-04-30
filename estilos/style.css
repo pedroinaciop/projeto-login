@@ -24,7 +24,7 @@ main {
 }
 
 section#login {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     overflow: hidden;
