@@ -1,5 +1,5 @@
 # Tela de Login
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedroinaciop/projeto-android/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedroinaciop/projeto-login/blob/main/LICENSE) 
 
 # Sobre o projeto
 
