@@ -11,7 +11,7 @@ O Projeto Login é um projeto de HTML e CSS para aperfeiçoar minhas habilidades
 ![Mobile 1](https://github.com/pedroinaciop/projeto-login/blob/main/imagens/mobile-design-1.png)
 
 ## Layout web
-![Web 1](https://github.com/pedroinaciop/projeto-login/blob/main/imagens/mobile-design-1.png)
+![Web 1](https://github.com/pedroinaciop/projeto-login/blob/main/imagens/web-design-1.png)
 
 # Tecnologias utilizadas
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
